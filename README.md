@@ -76,10 +76,10 @@ A smart inventory management application designed to manage products, stock leve
 **Tech Stack:** Python | Flask/Django | MySQL | HTML | CSS | JavaScript
 
 ### 🔐 Secure Authentication System
-A secure user authentication system with modern backend practices.
+A secure user authentication application featuring registration, login, password hashing, session management, and input validation.
 
 ### 🌱 Weed Detection Using Machine Learning
-Machine learning solution for detecting and classifying weeds.
+An AI-powered machine learning application that detects and classifies weeds from agricultural images using computer vision.
 
 
 ---
