@@ -100,3 +100,5 @@ An AI-powered machine learning application that detects and classifies weeds fro
 ---
 
 ⭐ Building projects. Learning continuously. Creating impact.
+
+⭐ "Building today, innovating for tomorrow."
