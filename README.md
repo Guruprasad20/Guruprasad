@@ -40,6 +40,10 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Guruprasad20)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
