@@ -69,7 +69,7 @@ Git • GitHub • VS Code • Postman
 ## 🚀 Featured Projects
 
 ### 🛒 Quick Basket
-Full-stack grocery e-commerce application.
+A Full-Stack Grocery E-Commerce Platform with secure authentication, product management, and a responsive shopping experience.
 
 ### 📦 Inventory Management System (IMS)
 A smart inventory management application designed to manage products, stock levels, suppliers, and inventory operations efficiently.
