@@ -36,6 +36,10 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Guruprasad20)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
