@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Guruprasad20&color=blue)
+
 # Hi 👋, I'm Guruprasad M Kotagunasimath
 
 ### 🐍 Python Web Developer | Full Stack Developer | AI/ML Enthusiast
