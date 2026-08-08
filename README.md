@@ -99,11 +99,6 @@ An AI-powered machine learning application that detects and classifies weeds fro
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guruprasad20&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasad20&layout=compact)
 
 ---
 
