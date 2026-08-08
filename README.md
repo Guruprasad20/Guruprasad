@@ -43,6 +43,7 @@ I am a Computer Science Engineering student passionate about building scalable w
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Guruprasad20&theme=algolia&no-frame=true&margin-w=10)
+
 ---
 
 ## 🛠️ Tech Stack
