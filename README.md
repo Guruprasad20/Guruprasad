@@ -36,6 +36,14 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Guruprasad20)
 
 ---
